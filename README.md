@@ -11,4 +11,6 @@ task_1_3_1<br/>
 demo:<br/>
 http://smallstarz.com/baidutask/task3/shengbei/task_1_3_1.html;<br/>
 http://smallstarz.com/baidutask/task3/shuangfeiyi/task_1_3_1.html;<br/>
-学习笔记:<br/>
+学习笔记:http://smallstarz.com/2017/02/20/baidutask3-css/<br/>
+
+
